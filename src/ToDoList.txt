@@ -1,0 +1,6 @@
+1. Add event handler for ok button            -- controller module
+2. get data from the input fields             -- UI module
+3. add the data to our internal datastructure -- data module
+4. print the data to screen (UI)              -- UI module
+5. calculate budget                           -- data module
+6. update the ui                              -- UI module
