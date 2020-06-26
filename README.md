@@ -1,6 +1,6 @@
 Budgety App - The Complete Javascript Course
 
-What I Learnt
+What I Learnt:
 
 Module Patern
 
